@@ -16,12 +16,12 @@ The TodoList application uses a command-line interface. User will be displayed w
     1. Date
     2. Project Name
 
-#### Following actions can be done ###
+### Following actions can be done ###
     1. Add tasks
     2. Edit tasks
     3. Mark tasks as done
     4. Remove tasks    
 
-##### Read and write tasks from and into a data file #####    
+### Read and write tasks from and into a data file ###    
 
  
