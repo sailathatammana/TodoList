@@ -4,7 +4,7 @@ It is a simple console based Java program to create and maintain personal task l
 ## A brief overview of Application ##
     - The TodoList application uses a command-line interface.
     - User will be displayed with several options to select from the command-line. 
-    - User is free to choose from the range of options displayed. For eg. Add a new task, see all the tasks, edit an existing task, remove a task.
+    - User is free to choose from the range of options displayed. For eg. Add a new task, see all the tasks, edit an existing task, remove a task, save task to a         file.
 
 ## Features of Application ##
 
