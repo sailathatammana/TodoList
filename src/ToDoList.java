@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 
 
-public class Main {
+public class ToDoList {
     // A string variable to hold the data file name.
     public static String fileName = "tasks_database.txt";
 
