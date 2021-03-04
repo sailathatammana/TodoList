@@ -22,7 +22,8 @@ It is a simple console based Java program to create and maintain personal task l
     1. Add tasks
     2. Edit tasks
     3. Mark tasks as done
-    4. Remove tasks    
+    4. Remove tasks 
+    5. Save and Quit   
 
 ### Read and write tasks from and into a data file ###    
 
