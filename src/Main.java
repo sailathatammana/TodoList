@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-import java.util.Collections;
+//import java.util.Collections;
 import java.util.Scanner;
 
 
@@ -22,7 +22,7 @@ public class Main {
     public static void main(String[] args) {
         int choice = -5;
         try {
-            ArrayList<Task> taskArrayList = new ArrayList<Task>();
+            ArrayList<Task> taskArrayList = new ArrayList<>();
             InputOutputFile ioFile = new InputOutputFile(taskArrayList);
             //Reading old tasks data from the data file. If it is the first time
             //of running the application , a message will be displayed.
