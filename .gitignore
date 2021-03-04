@@ -1,2 +1,4 @@
 *.class
 tasks_database.txt
+.idea*
+.DS*
