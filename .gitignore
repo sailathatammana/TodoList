@@ -2,3 +2,6 @@
 tasks_database.txt
 .idea*
 .DS*
+
+.gradle
+build/
