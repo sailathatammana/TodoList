@@ -1,11 +1,19 @@
 package sda;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-
 import java.time.LocalDate;
 import java.util.ArrayList;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+/**
+ * Test class for TaskList class
+ *
+ * Implemented unit testing for all the methods of TaskList class
+ * @author NagaVenkata SaiLatha Tammana
+ * @version 1.0
+ * @since 2021-03-08
+ */
 
 public class TaskListTest {
     private ArrayList<Task> taskList = new ArrayList<>( );

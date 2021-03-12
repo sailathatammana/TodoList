@@ -1,15 +1,12 @@
-
 package sda;
 
+import java.time.LocalDate;
+import java.time.DateTimeException;
+import java.time.format.DateTimeParseException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
-import java.time.DateTimeException;
-import java.time.LocalDate;
-import java.time.format.DateTimeParseException;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.fail;
 /**
  * Test class for Task class
  *
@@ -164,4 +161,3 @@ public class TaskTest {
     }
 
 }
-
