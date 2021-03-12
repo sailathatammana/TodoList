@@ -1,8 +1,6 @@
 # TodoList #
-It is a console based Java program to create and maintain personal task list. More information on how to run the application can be found at the User manual.
+It is a console based Java program to create and maintain personal task list. More information on how to run the application can be found at the [UserManual](https://github.com/sailathatammana/TodoList-IP/blob/main/Usermanual.md).
 
-[Caption](https://github.com/sailathatammana/TodoList-IP/blob/main/Usermanual.md)
-Usermanual
 
 ## A brief overview of Application ##
     - The TodoList application uses a command-line interface.
