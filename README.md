@@ -1,5 +1,5 @@
 # TodoList #
-It is a console based Java program to create and maintain personal task list. The user could create tasks, maintain, update and remove them. The features of the application are explained below.
+It is a console based Java program to create and maintain personal task list. The user could create tasks, maintain, update and remove tasks. The features of the application are explained below.
 
 
 ## A brief overview of Application ##
