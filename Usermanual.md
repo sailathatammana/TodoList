@@ -28,7 +28,7 @@ If you want to add a new task , enter 2 from main menu. The application prompts 
 
 ##  Edit a Task ##
 
-If you want to edit an existing task , choose option 3 from main menu. This will show you a list of all the tasks with index. It will prompt you to choose a task to edit. Enter the task index number to edit. And then choose the action to be done on the task
+If you want to edit an existing task , choose option 3 from main menu. This will show you a list of all the tasks with index. It will prompt you to choose a task to edit. Enter the task index number to edit. And then choose the action to be done on the task.
 
 If you want to mark the task as done choose 1 from the edit menu. If you want to edit a task details choose 2 from edit menu and choose 3 to remove the task from the list. When you want to quit without any action, choose 4.
 
@@ -46,7 +46,7 @@ If you want to mark the task as done choose 1 from the edit menu. If you want to
 
 ## Closing the Application
 
-If you want to end the application choose 4 from main menu
+If you want to end the application choose 4 from main menu.
 
 ### Below image shows the final screen of the application ###
 
