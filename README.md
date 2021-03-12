@@ -31,5 +31,8 @@ It is a console based Java program to create and maintain personal task list. Th
 ## User Instructions ##
  More information on how to run the application with examples can be found at the [UserManual](https://github.com/sailathatammana/TodoList-IP/blob/main/Usermanual.md).
 
+ ## LICENSE ##
+ MIT
+
 
  
